@@ -27,8 +27,12 @@ Use o método POST com os seguintes parâmetros:
  ```
 ## Criar Novas Pastas e Gerar Novos Dados
 ```sh
-python ingest.py
+python ingest_documents.py
 ```
+## Obs:.
+Este projeto é uma prova de conceito desenvolvida para estudar sua viabilidade. Mostrou-se altamente viável, então estou compartilhando o código dos meus estudos. A partir de agora, irei focar na implementação de melhorias de desempenho e segurança, mas não planejo atualizar este código.
+
+Atualize o config.py e o restante está totalmente funcional para ser hospedado em um servidor.
 
 
 
